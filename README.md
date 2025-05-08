@@ -1,7 +1,7 @@
 <h1> Olá! 👋 </h1> 
 
-<h3> Me chamo Maria Eduarda Azevedo e sou Assistente de Sistemas </h3> <br> 
-<h3> Com foco em back-end, minha linguagem principal é Java. </h3> <br>
+<h3> Me chamo Maria Eduarda Azevedo e sou Assistente de Sistemas </h3> 
+<h3> Com foco em back-end, minha linguagem principal é Java. </h3>
 
 <!--
 **duarrdazx/duarrdazx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
