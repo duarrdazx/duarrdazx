@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Olá, 
+Me chamo Maria Eduarda Azevedo e sou Assistente de Sistemas
+Com foco em back-end, minha linguagem principal é Java.
+
 <!--
 **duarrdazx/duarrdazx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
