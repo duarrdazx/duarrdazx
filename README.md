@@ -1,9 +1,8 @@
-<h1> Hi, I'm Eduarda </h1>
+<h1> Olá! </h1>
 
-[![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/arthurspk)](https://www.facebook.com/seixasqlc/)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/arthurspk)](https://www.linkedin.com/in/arthurspk/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/arthurspk)](www.linkedin.com/in/maria-eduarda-azevedo-143850239/)
 [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NbMQUPjHz7)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/arthurguiadev)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/duarrdazx)
 
 I'm passionate about technology! I had my first contact with computers when I was 7 years old and since then I've been discovering a little more about this wonderful area, I like the opportunity that technology offers people, and the proposal to make people's lives easier, I have a dream of getting to know the whole world sharing all my knowledge and also acquiring new experiences and knowledge, I think that knowledge is something everyone should have access to, and I wanted to have the experience of living in U.S. or Canada for a while.
 
@@ -17,9 +16,6 @@ Você pode entrar em contato comigo pelo e-mail: eduardaazvdo9@gmail.com
       <img width="400" src="https://i.imgur.com/bXxIgrd.png" />
     </td>
     <td style="border: 0";>
-      <p>
-        💻 Project focused on quality content on programming and technology in general <a href="https://www.instagram.com/guiadevbrasil/">Guia Dev Brasil<a/>.
-      </p>
       <h3>Other places you can find me</h3>
       <ul>
         <li>
